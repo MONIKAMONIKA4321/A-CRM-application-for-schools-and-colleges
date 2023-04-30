@@ -1,6 +1,7 @@
 # A-CRM-application-for-schools-and-colleges
 4.Trailhead Profile public URL
-Team Lead- https://trailblazer.me/id/kjayakrishnana
-Team member 1-https://trailblazer.me/id/kkanchi7
-Team member 2-https://trailblazer.me/id/msarath15
-Team member 3-https://trailblazer.me/id/kkamali1
+Team Lead : https://trailblazer.me/id/smonika54321
+Team member1 : https://trailblazer.me/id/aartu16
+Team member2 : https://trailblazer.me/id/kowkb1
+Team member3 : https://trailblazer.me/id/tpavithrash
+Team member4 : https://trailblazer.me/id/jamvy
